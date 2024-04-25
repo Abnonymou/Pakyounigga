@@ -8,6 +8,6 @@ module.exports = {
     guide: '{pn}',
   },
   onStart: async function ({ message }) {
-    return message.reply('yes?');
+    return message.reply('yes? I'm here.');
   }
 };
