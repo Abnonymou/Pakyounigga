@@ -5,7 +5,7 @@ module.exports = {
     version: "1.0",
     author: "Samir ",
     countDown: 5,
-    role: 2,
+    role: 4,
     shortDescription: {
       en: "Add user to support group",
     },
