@@ -47,7 +47,7 @@ module.exports = {
       confirmThisThread: "Please react to this message to confirm the prefix change for your chat box",
       successGlobal: "The prefix of the bot system has been changed to: %1",
       successThisThread: "The prefix of your chat box has been changed to: %1",
-      myPrefix: "🔴🟡🟢\n\n━━━━━━༺༻ ━━━━━━\n⚙️ 𝗕𝗼𝘁 𝗦𝘆𝘀𝘁𝗲𝗺 𝗣𝗿𝗲𝗳𝗶𝘅: [ %1 ]\n💬𝗬𝗼𝘂𝗿 𝗖𝗵𝗮𝘁 𝗕𝗼𝘅 𝗣𝗿𝗲𝗳𝗶𝘅: [ %2 ]\n\n╭──────༺♡༻──────╮\n 📆|⏰𝗗𝗔𝗧𝗘 𝗔𝗡𝗗 𝗧𝗜𝗠𝗘:\n %3\n━━━━━━━━━━━━━━━━\n📌 𝗛𝗢𝗪  𝗧𝗢 𝗨𝗦𝗘𝗗⁉️\n  1: %2help\n  2: %2draw\n  3: %2sing\n  4: %2ytb\n  5: %2callad - to call admins.╰──────༺♡༻──────╯\n\n𝗢𝗪𝗡𝗘𝗥: 𝗞𝗬𝗟𝗘 𝗕𝗔𝗜𝗧-𝗜𝗧\n𝗔𝗗𝗠𝗜𝗡𝟭: 𝗩𝗜𝗡𝗖𝗘𝗡𝗧 𝗔𝗘𝗥𝗠𝗘𝗡𝗜𝗢𝗡\n𝗔𝗗𝗠𝗜𝗡𝟮: 𝗝𝗢𝗛𝗡 𝗗𝗘𝗥𝗘𝗖𝗞 𝗢𝗕𝗢𝗭𝗔\n━━━━━━༺༻ ━━━━━━"
+      myPrefix: "🔴🟡🟢\n\n━━━━━━༺༻ ━━━━━━\n[ 𝑨𝑹𝑻𝑰𝑭𝑰𝑪𝑰𝑨𝑳 𝑰𝑵𝑻𝑬𝑳𝑳𝑰𝑮𝑬𝑵𝑪𝑬 ] \n\n⚙️ 𝗕𝗼𝘁 𝗦𝘆𝘀𝘁𝗲𝗺 𝗣𝗿𝗲𝗳𝗶𝘅: [ %1 ]\n💬𝗬𝗼𝘂𝗿 𝗖𝗵𝗮𝘁 𝗕𝗼𝘅 𝗣𝗿𝗲𝗳𝗶𝘅: [ %2 ]\n\n╭──────༺♡༻──────╮\n 📆|⏰𝗗𝗔𝗧𝗘 𝗔𝗡𝗗 𝗧𝗜𝗠𝗘:\n %3\n━━━━━━━━━━━━━━━━\n📌 𝗛𝗢𝗪  𝗧𝗢 𝗨𝗦𝗘𝗗⁉️\n  1: %2help\n  2: %2draw\n  3: %2sing\n  4: %2ytb\n  5: %2callad - to call admins.╰──────༺♡༻──────╯\n𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗧𝗢 𝗢𝗨𝗥  𝗔𝗗𝗠𝗜𝗡𝗦🎉\n\n𝗔𝗗𝗠𝗜𝗡𝟬: 𝗞𝗬𝗟𝗘 𝗕𝗔𝗜𝗧-𝗜𝗧\n𝗔𝗗𝗠𝗜𝗡𝟭: 𝗩𝗜𝗡𝗖𝗘𝗡𝗧 𝗔𝗘𝗥𝗠𝗘𝗡𝗜𝗢𝗡\n𝗔𝗗𝗠𝗜𝗡𝟮: 𝗝𝗢𝗛𝗡 𝗗𝗘𝗥𝗘𝗖𝗞 𝗢𝗕𝗢𝗭𝗔\n𝗔𝗗𝗠𝗜𝗡𝟯: 𝗝𝗢𝗦𝗛𝗨𝗔  𝗕𝗔𝗥𝗧𝗢𝗟𝗢𝗠𝗘\n━━━━━━༺༻ ━━━━━━"
     }
   },
 
