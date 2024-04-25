@@ -3,9 +3,9 @@ module.exports = {
 		name: "adc",
 		//aliases: ["adc"],
 		version: "1.2",
-		author: "Loid Butter x Ace", 
+		author: "Loid Butter x Kyle", 
 		countDown: 5,
-		role: 2,
+		role: 4,
 		shortDescription: {
 			vi: "",
 			en: "Upload pastebin file"
